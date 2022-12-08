@@ -14,7 +14,7 @@ const Navbar = () => {
         </React.Fragment>
 
     return (
-        <div className="navbar sticky top-0 z-30 bg-gray-100 bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 border border-gray-200">
+        <div className="navbar sticky top-0 z-30 bg-clip-padding  backdrop-blur-[9px] bg-opacity-60 p-5">
             <div className="navbar-start">
                 <div className="dropdown">
                     <label tabIndex={0} className="btn btn-ghost lg:hidden">
